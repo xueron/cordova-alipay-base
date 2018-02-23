@@ -79,7 +79,7 @@
       </config-file>
       
       <source-file src="src/android/AliPay.java" target-dir="src/org/apache/cordova/alipay/base"/>
-      <source-file src="src/android/libs/alipaySdk-20161129.jar" target-dir="libs"/>
+      <source-file src="src/android/libs/alipaySdk-20170922.jar" target-dir="libs"/>
   </platform>
 
 </plugin>
